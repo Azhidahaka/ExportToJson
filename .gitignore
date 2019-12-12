@@ -1,0 +1,11 @@
+*.csproj
+*.sln
+Packages/
+obj/
+Logs/
+Library/
+.vs/
+.git/
+Temp/
+.DS_Store
+Assets/Scripts/.DS_Store
